@@ -1,0 +1,23 @@
+header.header{
+    background: url(../../assets/img/bg-masthead.jpg);
+    background-size: cover;
+   padding: 230px 0;
+   color: white;
+}
+/* .overlay{
+    position: absolute;
+    background-color: #212529;
+    height: 100%;
+    width: 100%;
+    opacity: .3;
+    top: 0;
+    left: 0;
+} */
+h1{
+    font-size: 48px;
+    color: white;
+    font-weight: bold;
+    line-height: 1.2;
+    text-shadow: 1px 1px  #46454598;
+    margin-bottom: 48px;
+}

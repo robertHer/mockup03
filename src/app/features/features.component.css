@@ -1,0 +1,22 @@
+section.features{
+    padding: 112px 0;
+}
+.icons-items{
+    max-width: 320px;
+    margin-bottom: 48px;
+}
+.icon{
+    height: 112px;
+    font-size: 72px;
+    /* font-weight: lighter; */
+}
+h3{
+    font-weight: 700;
+    font-size: 28px
+}
+p{
+    font-size: 20px;
+    font-weight: 100;
+    margin-top: 0;
+    margin-bottom: 0;
+}
